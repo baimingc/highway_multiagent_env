@@ -7,7 +7,7 @@ Multi-agent version of highway_env/intersection at https://github.com/eleurent/h
 
 ## Installation
 
-`pip install -e .`
+cd into this directory then `pip install -e .`
 
 ## Usage
 
